@@ -46,7 +46,7 @@ assert(piAsString == '3.14');
 
 //escape sequence
 
-var  s1 = "its\'s easyto ecape the string delimiter";
+  // s1 = "its\'s easy tvaro ecape the string delimiter";
 
 //USE OF {} using an experession
 
